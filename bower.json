@@ -1,5 +1,5 @@
 {
-	"name": "ng-nodejs",
+	"name": "starter-ng-model",
 	"version": "1.0.0",
 	"dependencies": {
 		"bootstrap": "latest",
