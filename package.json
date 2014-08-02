@@ -1,5 +1,5 @@
 {
-  "name"         : "myApp",
+  "name"         : "starter-ng-node",
   "version"      : "0.0.1",
   "description"  : "Core Angular-Node",
   "main"         : "server.js",
